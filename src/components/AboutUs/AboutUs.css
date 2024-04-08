@@ -1,0 +1,38 @@
+.in {
+  display: flex;
+  flex-direction: row;
+}
+
+.bttext {
+  width: 1110px;
+  margin: 100px 0px 0px 205px;
+}
+
+.txt1 {
+  font-size: 46px;
+  font-weight: 400;
+  margin: 0px 0px 0px 0px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.txt2 {
+  padding-left: 10px;
+  font-size: 46px;
+  font-weight: 700;
+  margin: 0px 0px 0px 0px;
+  color: #ff5492;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.txt3 {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+}
+
+.txt4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #ff5492;
+}
